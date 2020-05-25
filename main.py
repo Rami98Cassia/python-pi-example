@@ -1,1 +1,6 @@
-print("HELLO WORLD")
+
+
+def main(msg):
+    print(msg)
+
+main("Hello")
