@@ -5,8 +5,11 @@ def main(msg):
 
     //CMMENT2
 
-   //message
+   //NO LONGER NEED COMMENTS
 
     print(msg)
 
 main("Hello")
+
+def secondary():
+    print("new")
